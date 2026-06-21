@@ -1,3 +1,3 @@
 # singlepageapp
 about myself
-personal
+personal info
